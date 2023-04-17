@@ -15,23 +15,9 @@ https://github.com/Ileriayo/markdown-badges
 #### Languages
 <div>
   <img height=20 src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img height=20 src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img height=20 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img height=20 src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img height=20 src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
   <img height=20 src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img height=20 src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img height=20 src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</div>
 
-#### Frameworks
-<div>
-  <img height=20 src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img height=20 src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gra" />
-  <img height=20 src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img height=20 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img height=20 src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img height=20 src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 </div>
 
 #### Databases
@@ -62,8 +48,8 @@ https://github.com/Ileriayo/markdown-badges
 
 ## GitHub Stats
 <div class='container'>
-  <img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=igordzierwa&show_icons=true&count_private=true&theme=github_dark" />
-  <img style="height: auto; width: 48%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=igordzierwa&theme=github-dark-blue" />
+  <img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=adambrozek123&show_icons=true&count_private=true&theme=github_dark" />
+  <img style="height: auto; width: 48%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=adambrozek123&theme=github-dark-blue" />
 </div>
 <p align="center">
   <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambrozek123&theme=github_dark&langs_count=8&exclude_repo=computer-graphics-labs&hide=html,css&layout=compact" />
